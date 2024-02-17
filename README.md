@@ -1,15 +1,15 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2035%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 336.4 kB Used in GitHub's Storage 
+> 📦 337.4 kB Used in GitHub's Storage 
  > 
-> 🏆 34 Contributions in the Year 2024
+> 🏆 38 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -45,7 +45,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2024 09:10:45 UTC
+ Last Updated on 17/02/2024 09:09:33 UTC
 <!--END_SECTION:waka-->
 
 <!--
